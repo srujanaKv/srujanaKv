@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Srujana K V
 
-I'm a passionate developer who loves building stuff with code!
+I'm an engineering student passionate about technology and stuff.
 
 ## 🚀 Tech Stack
 
@@ -17,7 +17,7 @@ I'm a passionate developer who loves building stuff with code!
 
 ## 📫 Connect with me
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [LinkedIn](https://www.linkedin.com/in/srujana-koppadka-5b6255286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - [Twitter](https://twitter.com/your-handle)
 - [Portfolio](https://your-website.com)
 
