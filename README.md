@@ -1,13 +1,13 @@
-# 👋 Hi, I'm Your Name
+# 👋 Hi, I'm Srujana K V
 
 I'm a passionate developer who loves building stuff with code!
 
 ## 🚀 Tech Stack
 
-- 💻 Languages: JavaScript, Python, Java
-- 🌐 Web: React, Node.js, Express
-- 🛢️ DB: MongoDB, PostgreSQL
-- ⚙️ Tools: Git, Docker, VS Code
+- 💻 Languages: Java,SQL
+- 🌐 Web: HTML
+- 🛢️ DB: Mysql
+- ⚙️ Tools: Git,VS Code,intelij
 
 ## 📈 GitHub Stats
 
