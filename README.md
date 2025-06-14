@@ -5,7 +5,7 @@ I'm an engineering student passionate about technology and stuff.
 ## 🚀 Tech Stack
 
 - 💻 Languages: Java,SQL
-- 🌐 Web: HTML
+- 🌐 Web: HTML,CSS
 - 🛢️ DB: Mysql
 - ⚙️ Tools: Git,VS Code,intelij
 
