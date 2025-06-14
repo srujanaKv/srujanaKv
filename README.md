@@ -11,7 +11,7 @@ I am a Bachelor of Engineering graduate in Computer Science, with a strong passi
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![srujanaKv](https://github-readme-stats.vercel.app/api?srujanaKv=your-srujanaKv&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
