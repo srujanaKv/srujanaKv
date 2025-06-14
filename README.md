@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Srujana K V
 
-I'm an engineering student passionate about technology and stuff.
+I am a Bachelor of Engineering graduate in Computer Science, with a strong passion for technology and innovation.
 
 ## 🚀 Tech Stack
 
