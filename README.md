@@ -5,7 +5,7 @@ I am a Bachelor of Engineering graduate in Computer Science, with a strong passi
 ## 🚀 Tech Stack
 
 - 💻 Languages: Java,SQL
-- 🌐 Web: HTML,CSS
+- 🌐 Web: HTML,CSS,Reactjs
 - 🛢️ DB: Mysql
 - ⚙️ Tools: Git,VS Code,intelij
 
